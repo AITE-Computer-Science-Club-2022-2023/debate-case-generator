@@ -22,6 +22,6 @@ TODO:
 * front-end
 * back-end --> API using FastAPI
 * Flask framework??
-* update README.md with final
+* update README.md with final syntax formatting, i.e. bold, header
 * add license
 * deploy Flask app
